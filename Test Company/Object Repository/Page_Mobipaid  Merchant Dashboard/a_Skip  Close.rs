@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Skip  Close</name>
+   <tag></tag>
+   <elementGuidId>02c57dca-669e-41b8-95fa-1517db59eeff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='news1']/div/div[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.n-footer > a.close-walktrough</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c41337d-7c83-4f6e-a473-b205b2e36b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>396b3e8f-478f-4cdd-aea6-748782f30bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-walktrough</value>
+      <webElementGuid>6e1ac3be-d56a-4f22-b5ea-9f0b03f7066e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>url-change-status</name>
+      <type>Main</type>
+      <value>https://stage.mobipaid.com/en/merchant/dashboard/change_flag_popup_wizard</value>
+      <webElementGuid>5ecb0a6c-fa83-4e75-bcde-ba2c1249cc2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip &amp; Close</value>
+      <webElementGuid>e1a83e9c-d4cb-40f0-9549-a9bca2111d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;news1&quot;)/div[@class=&quot;news-card&quot;]/div[@class=&quot;n-footer&quot;]/a[@class=&quot;close-walktrough&quot;]</value>
+      <webElementGuid>05a9e27b-b896-4fd9-8922-69335bdff3a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='news1']/div/div[6]/a</value>
+      <webElementGuid>41b628cd-aa70-47f8-8a9d-289660195866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Skip &amp; Close')]</value>
+      <webElementGuid>80058862-9eaf-4f2d-ac9e-daff427a9def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We have made changes to our navigation system'])[1]/following::a[3]</value>
+      <webElementGuid>d8871199-916f-4af9-8c23-447e1a4245d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobipaid new UI'])[1]/following::a[3]</value>
+      <webElementGuid>f1bcbb97-f50e-4810-8bbb-c0066ca6c5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Userguide at mobipaid.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>13b40eb5-4386-452b-80ff-e57b02419019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please use this menu option to view our user guide for quick help on Mobipaid functionality'])[1]/preceding::a[2]</value>
+      <webElementGuid>b7edfed6-33a8-4370-9599-e4fc9cbbff0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip &amp; Close']/parent::*</value>
+      <webElementGuid>547e8629-f432-4510-ae7b-2605e04a9237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>ae5745ff-de63-435b-82e4-c03f2c6b5714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>300be880-b23f-4597-b808-95106b1f1784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Skip &amp; Close' or . = 'Skip &amp; Close')]</value>
+      <webElementGuid>14362129-4eaa-400e-a83e-0d13971b25fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
